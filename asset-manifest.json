@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopapp/static/css/main.daebd9db.chunk.css",
+    "main.js": "/shopapp/static/js/main.e674f13a.chunk.js",
+    "main.js.map": "/shopapp/static/js/main.e674f13a.chunk.js.map",
+    "runtime-main.js": "/shopapp/static/js/runtime-main.6faf8f46.js",
+    "runtime-main.js.map": "/shopapp/static/js/runtime-main.6faf8f46.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/shopapp/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.111f83da.chunk.js": "/shopapp/static/js/2.111f83da.chunk.js",
+    "static/js/2.111f83da.chunk.js.map": "/shopapp/static/js/2.111f83da.chunk.js.map",
+    "static/js/3.8aa12445.chunk.js": "/shopapp/static/js/3.8aa12445.chunk.js",
+    "static/js/3.8aa12445.chunk.js.map": "/shopapp/static/js/3.8aa12445.chunk.js.map",
+    "index.html": "/shopapp/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/shopapp/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.daebd9db.chunk.css.map": "/shopapp/static/css/main.daebd9db.chunk.css.map",
+    "static/js/2.111f83da.chunk.js.LICENSE.txt": "/shopapp/static/js/2.111f83da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6faf8f46.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.111f83da.chunk.js",
+    "static/css/main.daebd9db.chunk.css",
+    "static/js/main.e674f13a.chunk.js"
+  ]
+}
